@@ -1,5 +1,5 @@
 ### Howdy folks 👋
-My name is Bryce Thompson and I am a DevOps Engineer Intern who enjoys working on personal projects! Feel free to check-out or fork any of my public repositories! My GitHub features custom MCGalaxy Plugins, commands, and other useful legacy Minecraft Classic code!
+My name is Bryce Thompson and I am a DevOps Engineer who enjoys working on personal projects! Feel free to check-out or fork any of my public repositories! My GitHub features custom MCGalaxy Plugins, commands, and other useful legacy Minecraft Classic code!
 
 If you have any inquiries or concerns, feel free to email me at support@brycethompson.net.
 
